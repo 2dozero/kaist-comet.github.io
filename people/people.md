@@ -59,7 +59,7 @@ Introducing the current members of the COMET Lab.
 
 ### Jae Hyeok Lee 
 
-| <img src="/people/images/jae_hyeok_lee.jpg" class="profile" /> [Jae Hyeok Lee (이재혁)](https://www.linkedin.com/in/jaehyeok-daniel-lee-2761832a0/) is a Ph.D. student in the ISE Department at KAIST. He received a BS degree in Industrial Engineering from Korea University. His current research interests include neural combinatorial optimization, GPU computing and quantum computing. He joined COMET in 2024. |
+| <img src="/people/images/jae_hyeok_lee.jpg" class="profile" /> [Jae Hyeok Lee (이재혁)](https://www.linkedin.com/in/jaehyeok-daniel-lee-2761832a0/) is a Ph.D. student in the ISE Department at KAIST. He received a BS degree in Industrial Engineering from Korea University. His current research interests include neural combinatorial optimization, GPU computing and quantum computing. He is one of the cutest boys in Korea, and he hopes to have a girlfriend by June. He joined COMET in 2024. |
 
 ### Jihye Na 
 
